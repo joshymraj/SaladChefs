@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4640448774559415343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd80cd10dc6964ca884cb1b731a75efa, type: 3}
+  m_Name: AubergineSalad
+  m_EditorClassIdentifier: 
+  saladName: 3
+  ingredients:
+  - {fileID: 11400000, guid: 365b168f3467444838473e88c02c771c, type: 2}
+  - {fileID: 11400000, guid: b00da820230c844dbabae40d9ba9dc91, type: 2}
+--- !u!114 &-3034685251356702592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd80cd10dc6964ca884cb1b731a75efa, type: 3}
+  m_Name: Panzanella
+  m_EditorClassIdentifier: 
+  saladName: 0
+  ingredients:
+  - {fileID: 11400000, guid: b08c4354f2ab4483bb8fd9b5b7951fa4, type: 2}
+  - {fileID: 11400000, guid: 365b168f3467444838473e88c02c771c, type: 2}
+  - {fileID: 11400000, guid: 8239a331d84d643b9a20d204a12ef716, type: 2}
+--- !u!114 &-2679672686139492544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd80cd10dc6964ca884cb1b731a75efa, type: 3}
+  m_Name: CapresseSalad
+  m_EditorClassIdentifier: 
+  saladName: 5
+  ingredients:
+  - {fileID: 11400000, guid: b08c4354f2ab4483bb8fd9b5b7951fa4, type: 2}
+  - {fileID: 11400000, guid: b00da820230c844dbabae40d9ba9dc91, type: 2}
+  - {fileID: 11400000, guid: 365b168f3467444838473e88c02c771c, type: 2}
+  - {fileID: 11400000, guid: 8239a331d84d643b9a20d204a12ef716, type: 2}
+--- !u!114 &-97386994345086057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd80cd10dc6964ca884cb1b731a75efa, type: 3}
+  m_Name: FruitPunch
+  m_EditorClassIdentifier: 
+  saladName: 2
+  ingredients:
+  - {fileID: 11400000, guid: a5d372d5146154054a07539c7a48f3c7, type: 2}
+  - {fileID: 11400000, guid: 8239a331d84d643b9a20d204a12ef716, type: 2}
+  - {fileID: 11400000, guid: e211b441d98b94a2fa2f7529bcae1927, type: 2}
+  - {fileID: 11400000, guid: 07c3a38733fa74f82af58e921f213a53, type: 2}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31750da8486c940a7b8c9d32d5d80391, type: 3}
+  m_Name: MenuData
+  m_EditorClassIdentifier: 
+  salads:
+  - {fileID: -3034685251356702592}
+  - {fileID: 1213823702254096246}
+  - {fileID: -97386994345086057}
+  - {fileID: -4640448774559415343}
+  - {fileID: 5027224259020992827}
+  - {fileID: -2679672686139492544}
+--- !u!114 &1213823702254096246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd80cd10dc6964ca884cb1b731a75efa, type: 3}
+  m_Name: PastaSalad
+  m_EditorClassIdentifier: 
+  saladName: 1
+  ingredients:
+  - {fileID: 11400000, guid: e211b441d98b94a2fa2f7529bcae1927, type: 2}
+  - {fileID: 11400000, guid: 84a5a73ede6d94cadbc3cac8cbad35e4, type: 2}
+  - {fileID: 11400000, guid: 07c3a38733fa74f82af58e921f213a53, type: 2}
+--- !u!114 &5027224259020992827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd80cd10dc6964ca884cb1b731a75efa, type: 3}
+  m_Name: OrangeSalad
+  m_EditorClassIdentifier: 
+  saladName: 4
+  ingredients:
+  - {fileID: 11400000, guid: 84a5a73ede6d94cadbc3cac8cbad35e4, type: 2}
+  - {fileID: 11400000, guid: b08c4354f2ab4483bb8fd9b5b7951fa4, type: 2}
+  - {fileID: 11400000, guid: e211b441d98b94a2fa2f7529bcae1927, type: 2}

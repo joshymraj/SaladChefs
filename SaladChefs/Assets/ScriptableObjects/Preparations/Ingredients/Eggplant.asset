@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 254c42083faef485ea2c5d5422559e36, type: 3}
+  m_Name: Eggplant
+  m_EditorClassIdentifier: 
+  ingredientName: 0
+  image: {fileID: 21300000, guid: a310c1d0be58247e5bc401063bb746ba, type: 3}
+  chopTime: 7
+  pickupCartItemWidth: 0.5
+  pickupCartItemHeight: 0.7

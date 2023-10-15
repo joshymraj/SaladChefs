@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 254c42083faef485ea2c5d5422559e36, type: 3}
+  m_Name: Egg
+  m_EditorClassIdentifier: 
+  ingredientName: 8
+  image: {fileID: 21300000, guid: c015f11782f164be399a9bceea7f9731, type: 3}
+  chopTime: 5
+  pickupCartItemWidth: 0.3
+  pickupCartItemHeight: 0.5

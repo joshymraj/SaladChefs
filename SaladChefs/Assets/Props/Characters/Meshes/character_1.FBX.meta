@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: 73afdc5499f28de45b558a348d795751
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: CATRigBody
+  - first:
+      1: 100002
+    second: CATRighand_left
+  - first:
+      1: 100004
+    second: CATRighand_left_1
+  - first:
+      1: 100006
+    second: CATRighand_palm_left
+  - first:
+      1: 100008
+    second: CATRighand_palm_right
+  - first:
+      1: 100010
+    second: CATRighand_right
+  - first:
+      1: 100012
+    second: CATRighand_right_1
+  - first:
+      1: 100014
+    second: CATRigHead
+  - first:
+      1: 100016
+    second: CATRigHub001
+  - first:
+      1: 100018
+    second: CATRigLLeg1
+  - first:
+      1: 100020
+    second: CATRigRLeg1
+  - first:
+      1: 100022
+    second: CATRigSpine
+  - first:
+      1: 100024
+    second: Character001
+  - first:
+      1: 100026
+    second: //RootNode
+  - first:
+      1: 100028
+    second: Part_Human_body
+  - first:
+      1: 100030
+    second: Part_Human_had
+  - first:
+      1: 100032
+    second: Part_Human_hand_left
+  - first:
+      1: 100034
+    second: Part_Human_hand_left_1
+  - first:
+      1: 100036
+    second: Part_Human_hand_palm_left
+  - first:
+      1: 100038
+    second: Part_Human_hand_palm_right
+  - first:
+      1: 100040
+    second: Part_Human_hand_right
+  - first:
+      1: 100042
+    second: Part_Human_hand_right_1
+  - first:
+      1: 100044
+    second: Part_Human_Leg_left
+  - first:
+      1: 100046
+    second: Part_Human_Leg_right
+  - first:
+      1: 100048
+    second: Part_Human_Pelvis
+  - first:
+      4: 400000
+    second: CATRigBody
+  - first:
+      4: 400002
+    second: CATRighand_left
+  - first:
+      4: 400004
+    second: CATRighand_left_1
+  - first:
+      4: 400006
+    second: CATRighand_palm_left
+  - first:
+      4: 400008
+    second: CATRighand_palm_right
+  - first:
+      4: 400010
+    second: CATRighand_right
+  - first:
+      4: 400012
+    second: CATRighand_right_1
+  - first:
+      4: 400014
+    second: CATRigHead
+  - first:
+      4: 400016
+    second: CATRigHub001
+  - first:
+      4: 400018
+    second: CATRigLLeg1
+  - first:
+      4: 400020
+    second: CATRigRLeg1
+  - first:
+      4: 400022
+    second: CATRigSpine
+  - first:
+      4: 400024
+    second: Character001
+  - first:
+      4: 400026
+    second: //RootNode
+  - first:
+      4: 400028
+    second: Part_Human_body
+  - first:
+      4: 400030
+    second: Part_Human_had
+  - first:
+      4: 400032
+    second: Part_Human_hand_left
+  - first:
+      4: 400034
+    second: Part_Human_hand_left_1
+  - first:
+      4: 400036
+    second: Part_Human_hand_palm_left
+  - first:
+      4: 400038
+    second: Part_Human_hand_palm_right
+  - first:
+      4: 400040
+    second: Part_Human_hand_right
+  - first:
+      4: 400042
+    second: Part_Human_hand_right_1
+  - first:
+      4: 400044
+    second: Part_Human_Leg_left
+  - first:
+      4: 400046
+    second: Part_Human_Leg_right
+  - first:
+      4: 400048
+    second: Part_Human_Pelvis
+  - first:
+      43: 4300000
+    second: Part_Human_Pelvis
+  - first:
+      43: 4300002
+    second: Part_Human_Leg_right
+  - first:
+      43: 4300004
+    second: Part_Human_Leg_left
+  - first:
+      43: 4300006
+    second: Part_Human_body
+  - first:
+      43: 4300008
+    second: Part_Human_had
+  - first:
+      43: 4300010
+    second: Part_Human_hand_right
+  - first:
+      43: 4300012
+    second: Part_Human_hand_right_1
+  - first:
+      43: 4300014
+    second: Part_Human_hand_palm_right
+  - first:
+      43: 4300016
+    second: Part_Human_hand_left
+  - first:
+      43: 4300018
+    second: Part_Human_hand_left_1
+  - first:
+      43: 4300020
+    second: Part_Human_hand_palm_left
+  - first:
+      74: 7400000
+    second: Walk_mec
+  - first:
+      74: 7400002
+    second: Run_mec
+  - first:
+      74: 7400004
+    second: Carry_mec
+  - first:
+      74: 7400006
+    second: Drink_sitting
+  - first:
+      74: 7400008
+    second: Call_Chef_sitting
+  - first:
+      74: 7400010
+    second: Hands_on_hips
+  - first:
+      74: 7400012
+    second: Cross_hands
+  - first:
+      74: 7400014
+    second: Do_exercises
+  - first:
+      74: 7400016
+    second: Denial
+  - first:
+      74: 7400018
+    second: Hail_cab
+  - first:
+      74: 7400020
+    second: Sitting
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Part_Human_body
+  - first:
+      137: 13700002
+    second: Part_Human_had
+  - first:
+      137: 13700004
+    second: Part_Human_hand_left
+  - first:
+      137: 13700006
+    second: Part_Human_hand_left_1
+  - first:
+      137: 13700008
+    second: Part_Human_hand_palm_left
+  - first:
+      137: 13700010
+    second: Part_Human_hand_palm_right
+  - first:
+      137: 13700012
+    second: Part_Human_hand_right
+  - first:
+      137: 13700014
+    second: Part_Human_hand_right_1
+  - first:
+      137: 13700016
+    second: Part_Human_Leg_left
+  - first:
+      137: 13700018
+    second: Part_Human_Leg_right
+  - first:
+      137: 13700020
+    second: Part_Human_Pelvis
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Charakter_FBI
+    second: {fileID: 2100000, guid: 671c5afdffd9b0040be214ef38516796, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk_mec
+      takeName: Take 001
+      internalID: 7400000
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_mec
+      takeName: Take 001
+      internalID: 7400002
+      firstFrame: 21
+      lastFrame: 33
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carry_mec
+      takeName: Take 001
+      internalID: 7400004
+      firstFrame: 35
+      lastFrame: 53
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drink_sitting
+      takeName: Take 001
+      internalID: 7400006
+      firstFrame: 57
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Call_Chef_sitting
+      takeName: Take 001
+      internalID: 7400008
+      firstFrame: 96
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hands_on_hips
+      takeName: Take 001
+      internalID: 7400010
+      firstFrame: 152
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cross_hands
+      takeName: Take 001
+      internalID: 7400012
+      firstFrame: 300
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Do_exercises
+      takeName: Take 001
+      internalID: 7400014
+      firstFrame: 450
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Denial
+      takeName: Take 001
+      internalID: 7400016
+      firstFrame: 650
+      lastFrame: 710
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hail_cab
+      takeName: Take 001
+      internalID: 7400018
+      firstFrame: 710
+      lastFrame: 750
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sitting
+      takeName: Take 001
+      internalID: 7400020
+      firstFrame: 96
+      lastFrame: 96.1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_left/CATRighand_left_1/CATRighand_palm_left
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRighand_right/CATRighand_right_1/CATRighand_palm_right
+        weight: 1
+      - path: CATRigHub001/CATRigSpine/CATRigBody/CATRigHead
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Part_Human_body
+        weight: 1
+      - path: Part_Human_had
+        weight: 1
+      - path: Part_Human_hand_left
+        weight: 1
+      - path: Part_Human_hand_left_1
+        weight: 1
+      - path: Part_Human_hand_palm_left
+        weight: 1
+      - path: Part_Human_hand_palm_right
+        weight: 1
+      - path: Part_Human_hand_right
+        weight: 1
+      - path: Part_Human_hand_right_1
+        weight: 1
+      - path: Part_Human_Leg_left
+        weight: 1
+      - path: Part_Human_Leg_right
+        weight: 1
+      - path: Part_Human_Pelvis
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
